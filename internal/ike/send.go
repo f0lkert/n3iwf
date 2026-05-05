@@ -9,8 +9,8 @@ import (
 	"github.com/free5gc/ike"
 	ike_message "github.com/free5gc/ike/message"
 	"github.com/free5gc/ike/security"
-	n3iwf_context "github.com/free5gc/n3iwf/internal/context"
-	"github.com/free5gc/n3iwf/internal/logger"
+	n3iwf_context "github.com/f0lkert/n3iwf/internal/context"
+	"github.com/f0lkert/n3iwf/internal/logger"
 )
 
 func SendIKEMessageToUE(

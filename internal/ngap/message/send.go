@@ -3,8 +3,8 @@ package message
 import (
 	"runtime/debug"
 
-	n3iwf_context "github.com/free5gc/n3iwf/internal/context"
-	"github.com/free5gc/n3iwf/internal/logger"
+	n3iwf_context "github.com/f0lkert/n3iwf/internal/context"
+	"github.com/f0lkert/n3iwf/internal/logger"
 	"github.com/free5gc/ngap/ngapType"
 	"github.com/free5gc/sctp"
 	ngap_metrics "github.com/free5gc/util/metrics/ngap"

@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/require"
 
 	ike_message "github.com/free5gc/ike/message"
-	n3iwf_context "github.com/free5gc/n3iwf/internal/context"
-	"github.com/free5gc/n3iwf/pkg/factory"
+	n3iwf_context "github.com/f0lkert/n3iwf/internal/context"
+	"github.com/f0lkert/n3iwf/pkg/factory"
 	"github.com/free5gc/util/ippool"
 )
 

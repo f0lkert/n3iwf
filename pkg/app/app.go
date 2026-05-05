@@ -1,8 +1,8 @@
 package app
 
 import (
-	n3iwf_context "github.com/free5gc/n3iwf/internal/context"
-	"github.com/free5gc/n3iwf/pkg/factory"
+	n3iwf_context "github.com/f0lkert/n3iwf/internal/context"
+	"github.com/f0lkert/n3iwf/pkg/factory"
 )
 
 type App interface {

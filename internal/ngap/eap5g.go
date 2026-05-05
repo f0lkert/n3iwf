@@ -5,8 +5,8 @@ import (
 	"errors"
 
 	"github.com/free5gc/aper"
-	"github.com/free5gc/n3iwf/internal/logger"
-	"github.com/free5gc/n3iwf/internal/ngap/message"
+	"github.com/f0lkert/n3iwf/internal/logger"
+	"github.com/f0lkert/n3iwf/internal/ngap/message"
 	"github.com/free5gc/ngap/ngapType"
 )
 

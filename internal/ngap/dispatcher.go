@@ -3,7 +3,7 @@ package ngap
 import (
 	"runtime/debug"
 
-	"github.com/free5gc/n3iwf/internal/logger"
+	"github.com/f0lkert/n3iwf/internal/logger"
 	"github.com/free5gc/ngap"
 	"github.com/free5gc/ngap/ngapType"
 	"github.com/free5gc/sctp"

@@ -26,9 +26,9 @@ import (
 	"github.com/free5gc/ike/security/encr"
 	"github.com/free5gc/ike/security/integ"
 	"github.com/free5gc/ike/security/prf"
-	n3iwf_context "github.com/free5gc/n3iwf/internal/context"
-	"github.com/free5gc/n3iwf/internal/ike/xfrm"
-	"github.com/free5gc/n3iwf/internal/logger"
+	n3iwf_context "github.com/f0lkert/n3iwf/internal/context"
+	"github.com/f0lkert/n3iwf/internal/ike/xfrm"
+	"github.com/f0lkert/n3iwf/internal/logger"
 )
 
 func (s *Server) HandleIKESAINIT(

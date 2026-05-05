@@ -10,10 +10,10 @@ import (
 	"strings"
 	"sync"
 
-	n3iwf_context "github.com/free5gc/n3iwf/internal/context"
-	"github.com/free5gc/n3iwf/internal/logger"
-	"github.com/free5gc/n3iwf/internal/ngap/message"
-	"github.com/free5gc/n3iwf/pkg/factory"
+	n3iwf_context "github.com/f0lkert/n3iwf/internal/context"
+	"github.com/f0lkert/n3iwf/internal/logger"
+	"github.com/f0lkert/n3iwf/internal/ngap/message"
+	"github.com/f0lkert/n3iwf/pkg/factory"
 )
 
 type n3iwf interface {
